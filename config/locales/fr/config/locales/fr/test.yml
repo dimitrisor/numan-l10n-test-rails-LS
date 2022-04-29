@@ -1,0 +1,27 @@
+fr:
+    activerecord:
+        models:
+            feedback: ''
+        attributes:
+            feedback:
+                author: ''
+                message: ''
+    global:
+        forms:
+            messages:
+                errors:
+                    one: ''
+                    other: ''
+            submit: ''
+        menu:
+            home: ''
+            feedback: ''
+    feedbacks:
+        new:
+            title: ''
+        posted_by: ''
+    static_pages:
+        index:
+            welcome: ''
+            services_html: ''
+            page_title: 'Comment vas-tu aujourd''hui??'
